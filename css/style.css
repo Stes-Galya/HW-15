@@ -1,31 +1,4 @@
-.holder{
-    flex-basis:150px ;
-    height: 150px;
-    border: 1px solid black;
-    background-color: aqua;
-    font-size: 50px;
-    color: brown;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-grow: 1;
-}
-.item:nth-child(1){
-background-color:red;
-}
-.item:nth-child(2){
-background-color:gold ;
-}
-.item:nth-child(3){
-background-color: blueviolet;
-}
-.item:nth-child(4){
-background-color: cadetblue;
-}
-.item:nth-child(5){
-background-color: chartreuse;
-}
-.item{
-  
-   
+.title{
+    width: 500px;
+    height: 400px;
 }
